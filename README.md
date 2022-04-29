@@ -86,9 +86,34 @@ Extract main attributes of a fashion image
 
 #### 20 [Virtual Try On](https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform)
 
+#### 21 [Clothin Detection](https://github.com/simaiden/Clothing-Detection)
+
+#### 22 [Clothing Style Detection](https://github.com/zeynepCankara/Clothing-Style-Detector)
+
+#### 23 [Clothing Color Extractor](https://github.com/taniaReyesM/color_cloth) <br>
+![img](https://camo.githubusercontent.com/f2d3fbcde83004afd18face5717fb72fe002d4d7e2b4ebfa197d193989a07ca8/68747470733a2f2f6661726d352e737461746963666c69636b722e636f6d2f343436322f32343033333937343538385f666533346265393538612e6a7067)
+
+#### 24 [BotScrapping](https://github.com/edsonlb/botScraping)
+
+#### 25 [Carbon Footprint Calculator](https://github.com/NMF-earth/carbon-footprint)
+
+#### 2. [E-Commerce Tools](https://github.com/practical-data-science/ecommercetools)
+
+#### [Customer Lifetime Value](https://github.com/SubeyteT/Customer-Lifetime-Value-Prediction-Online-Retail-Dataset)
+# Pricing
+
+#### 1. [Demand Forecasting and Price Optimization](https://github.com/Azure/cortana-intelligence-price-optimization)
+
+
+#### 3. [Retail-Forecasting-Optimal-Pricing](https://github.com/samarthmistry/Retail-Forecasting-Optimal-Pricing)
+
+
+ 
 # Data 
 #### 1. [Fashion Minst](https://github.com/zalandoresearch/fashion-mnist)
 A dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes
 #### 2. [DeepFashion Dataset](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html)
 
-#### 3. [Fashion IQ](https://github.com/XiaoxiaoGuo/fashion-iq)
+#### 3. [Fashion IQ](https://github.com/XiaoxiaoGuo/fashion-iq) 
+
+#### 4. [Clothing Detection Dataset](https://github.com/simaiden/Clothing-Detection)
