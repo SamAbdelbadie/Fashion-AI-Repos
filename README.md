@@ -13,8 +13,9 @@ The main goal of this competition is to detect the keypoints of the clothes' ima
 #### 2. [Image Similarity](https://github.com/hanxiao/HM-Fashion-image-neural-search)
 This example shows how to do image similarity search using DocArray and Weaviate as Document Store.
 
-#### 3. [Fashion Minst](https://github.com/zalandoresearch/fashion-mnist)
-A dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes
+#### 3. [Personalized Fashion Recommendation](https://github.com/lzcn/Fashion-Hash-Net)
+Learning Binary Code for Personalized Fashion Recommendation  [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_Learning_Binary_Code_for_Personalized_Fashion_Recommendation_CVPR_2019_paper.pdf)
+
 
 #### 4. [Deep Fashion Try On](https://github.com/switchablenorms/DeepFashion_Try_On)
 Image visual try-on aims at transferring a target clothing image onto a reference person.
@@ -75,6 +76,15 @@ This project is both a library and a CLI tool to extract the dominant colors of 
 #### 15 [Clothing Segmentation](https://github.com/levindabhi/cloth-segmentation)
 
 #### 16 [Fashion Editing](https://github.com/LZQhardworker/Fashion-Editing)
+
+#### 17 [Try On GAN](https://github.com/ofnote/TryOnGAN)
+
+#### 18 [Fashion AI Analysis](https://github.com/normalclone/fashion-ai-analysis)
+Extract main attributes of a fashion image
+
+#### 19 [FarFetch Scrapping](https://github.com/zpencerguy/fmarket)
+
+#### 20 [Virtual Try On](https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform)
 
 # Data 
 #### 1. [Fashion Minst](https://github.com/zalandoresearch/fashion-mnist)
