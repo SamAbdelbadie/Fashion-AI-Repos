@@ -110,7 +110,20 @@ Extract main attributes of a fashion image
 #### 3. [Retail-Forecasting-Optimal-Pricing](https://github.com/samarthmistry/Retail-Forecasting-Optimal-Pricing)
 
 
- 
+# Customer Analysis
+#### 1. [Customer-Lifetime-Value-Prediction-Online-Retail-Dataset](https://github.com/SubeyteT/Customer-Lifetime-Value-Prediction-Online-Retail-Dataset)
+#### 2. [Customer Lifetime Value Prediction & LTV Segmentation](https://github.com/mukulsinghal001/customer-lifetime-prediction-using-python)
+#### 3. [Customer Lifetime Value](https://github.com/mesudepolat/CUSTOMER_LIFETIME_VALUE)
+#### 4. [Customer Lifetime Value Prediction]((https://github.com/mesudepolat/Customer-Lifetime-Value-Prediction)
+#### 4. [Customer Lifetime Value Prediction Online Retail](https://github.com/izzetblgc/Customer_Lifetime_Value_Prediction/blob/main/Customer_Lifetime_Value_Prediction.py)
+#### 5. [Marketing Analytics Project](https://github.com/mehulsharma3795/Marketing-Analytics-Project)
+#### 6. [Calculating the customer lifetime value using python and making customised strategies](https://github.com/Shailaja-Gupta/Customer_Lifetime_Value_Prediction)
+#### 7.[Ecommerce Sales Analysis](https://github.com/matheastevens/Ecommerce-Sales-Analysis)
+This repo has Customer Segmentation, CLV, Recommender System, and Returns Predictions per customer
+#### 8. [CLTV Estimation with BGNBD & GG](https://github.com/kapmaznida/Customer_Lifetime_Value_Prediction_with_BGNBD-Gamma_Gamma)
+![Image](https://raw.githubusercontent.com/kapmaznida/Customer_Lifetime_Value_Prediction_with_BGNBD-Gamma_Gamma/main/clv.jpeg)
+#### 9. [Awesome CLV Models](https://github.com/akulumbeg/awesome-clv-models)
+
 # Data 
 #### 1. [Fashion Minst](https://github.com/zalandoresearch/fashion-mnist)
 A dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes
