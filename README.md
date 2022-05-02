@@ -114,7 +114,7 @@ Extract main attributes of a fashion image
 #### 1. [Customer-Lifetime-Value-Prediction-Online-Retail-Dataset](https://github.com/SubeyteT/Customer-Lifetime-Value-Prediction-Online-Retail-Dataset)
 #### 2. [Customer Lifetime Value Prediction & LTV Segmentation](https://github.com/mukulsinghal001/customer-lifetime-prediction-using-python)
 #### 3. [Customer Lifetime Value](https://github.com/mesudepolat/CUSTOMER_LIFETIME_VALUE)
-#### 4. [Customer Lifetime Value Prediction]((https://github.com/mesudepolat/Customer-Lifetime-Value-Prediction)
+#### 4. [Customer Lifetime Value Prediction](https://github.com/mesudepolat/Customer-Lifetime-Value-Prediction)
 #### 4. [Customer Lifetime Value Prediction Online Retail](https://github.com/izzetblgc/Customer_Lifetime_Value_Prediction/blob/main/Customer_Lifetime_Value_Prediction.py)
 #### 5. [Marketing Analytics Project](https://github.com/mehulsharma3795/Marketing-Analytics-Project)
 #### 6. [Calculating the customer lifetime value using python and making customised strategies](https://github.com/Shailaja-Gupta/Customer_Lifetime_Value_Prediction)
