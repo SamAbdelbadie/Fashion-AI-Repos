@@ -97,13 +97,15 @@ Extract main attributes of a fashion image
 
 #### 25 [Carbon Footprint Calculator](https://github.com/NMF-earth/carbon-footprint)
 
-#### 2. [E-Commerce Tools](https://github.com/practical-data-science/ecommercetools)
+#### 26. [E-Commerce Tools](https://github.com/practical-data-science/ecommercetools)
 
-#### [Customer Lifetime Value](https://github.com/SubeyteT/Customer-Lifetime-Value-Prediction-Online-Retail-Dataset)
+#### 27. [Customer Lifetime Value](https://github.com/SubeyteT/Customer-Lifetime-Value-Prediction-Online-Retail-Dataset)
+
 # Pricing
 
 #### 1. [Demand Forecasting and Price Optimization](https://github.com/Azure/cortana-intelligence-price-optimization)
 
+#### 2. [Rue La La Analytics](https://higherlogicdownload.s3.amazonaws.com/INFORMS/b52600b3-7c76-4495-9472-1777417473c4/UploadedImages/Rue%20La%20La%20-%20MIT%20paper.pdf)
 
 #### 3. [Retail-Forecasting-Optimal-Pricing](https://github.com/samarthmistry/Retail-Forecasting-Optimal-Pricing)
 
