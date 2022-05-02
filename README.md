@@ -105,6 +105,9 @@ Extract main attributes of a fashion image
 ![Img](https://camo.githubusercontent.com/3df0d19116db2b2ccd2cf1992feb525b9381d2febd6a8d3f19550b32d8237a9e/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a6e70534b6b55327472435653494a45656c64314575512e706e67)
 
 
+#### 29. [Recommendation-System-Collabrative-Filtering](https://github.com/Sparxxz/Recommendation-System-Collabrative-Filtering)
+
+#### 30. [prediction-of-customer-purchase-intention](https://github.com/jhfeng0215/prediction-of-customer-purchase-intention)
 # Pricing
 
 #### 1. [Demand Forecasting and Price Optimization](https://github.com/Azure/cortana-intelligence-price-optimization)
