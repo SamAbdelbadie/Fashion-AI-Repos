@@ -101,6 +101,10 @@ Extract main attributes of a fashion image
 
 #### 27. [Customer Lifetime Value](https://github.com/SubeyteT/Customer-Lifetime-Value-Prediction-Online-Retail-Dataset)
 
+#### 28. [Automatic Tagging](https://github.com/DataTurks-Engg/Automatic_tagging_of_clothing_in_E-Commerce)
+![Img](https://camo.githubusercontent.com/3df0d19116db2b2ccd2cf1992feb525b9381d2febd6a8d3f19550b32d8237a9e/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a6e70534b6b55327472435653494a45656c64314575512e706e67)
+
+
 # Pricing
 
 #### 1. [Demand Forecasting and Price Optimization](https://github.com/Azure/cortana-intelligence-price-optimization)
